@@ -1,0 +1,10 @@
+C:\Other\Git\Unreal_Parameter_Launcher\bin\Debug\Forty-Three Launcher.exe.config
+C:\Other\Git\Unreal_Parameter_Launcher\bin\Debug\Forty-Three Launcher.exe
+C:\Other\Git\Unreal_Parameter_Launcher\bin\Debug\Forty-Three Launcher.pdb
+C:\Other\Git\Unreal_Parameter_Launcher\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Other\Git\Unreal_Parameter_Launcher\obj\Debug\GUI.Form1.resources
+C:\Other\Git\Unreal_Parameter_Launcher\obj\Debug\Forty_Three_Launcher.Properties.Resources.resources
+C:\Other\Git\Unreal_Parameter_Launcher\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Other\Git\Unreal_Parameter_Launcher\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Other\Git\Unreal_Parameter_Launcher\obj\Debug\Forty-Three Launcher.exe
+C:\Other\Git\Unreal_Parameter_Launcher\obj\Debug\Forty-Three Launcher.pdb
